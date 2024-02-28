@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - Propiedades de ListView, view our [https://flutlab.io/docs](https://codesinsider.com/flutter-listview-example/?expand_article=1)
 - Yizzia Monge 6j
+
+-Resultado
+![image](https://github.com/YizziaA/p10-ListaCard-6j/assets/143548810/ddb6ab14-3682-4a7d-9c2f-7b92e950b284)
